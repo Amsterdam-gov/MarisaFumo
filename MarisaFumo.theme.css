@@ -1,0 +1,90 @@
+/**
+* @name MarisaFumo
+* @version 1.0
+* @description A marisa fumo based theme.
+* @author Yung MarYoda
+* @invite dKsmXnN2Ez
+* @Source https://github.com/Amsterdam-gov
+* @website https://github.com/Amsterdam-gov
+*/
+@import url("https://clearvision.gitlab.io/v6/main.css");
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web');
+:root {
+--main-color: #000000FF;
+--hover-color: #263CB3FF;
+--success-color: #1e63b3;
+--danger-color: #982929;
+--url-color: #9879E6FF;
+--online-color: rgb(99, 165, 55);
+--idle-color: #0a0a0a;
+--dnd-color: rgb(0, 0, 0);
+--streamig-color: #593695;
+--offline-color: #808080;
+--main-font: 'Titillium Web';
+--code-font: 'Consolas';
+--text-normal: #FFFFFFFF;
+--text-muted: #72767dff;
+--channels-width: 220px;
+--members-width: 240px;
+--background-shading: 0%;
+--background-overlay: #00000099;
+--background-image: url('https://i.imgur.com/p9mssGk.jpg');
+--background-size: contain;
+--background-position: center;
+--background-repeat: space;
+--background-attachment: fixed;
+--background-brightness: 100%;
+--background-constrast: 100%;
+--background-saturation: 100%;
+--background-invert: 0%;
+--background-grayscale: 0%;
+--background-sepia: 0%;
+--background-blur: 0px;
+--home-icon: url('https://i.imgur.com/XtHvzFE.gif');
+--home-position: center;
+--home-size: 97px;
+--background-overlay: #00000099;
+--backdrop-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--backdrop-image: center;
+--backdrop-size: cover;
+--backdrop-repeat: repeat;
+--backdrop-attachment: fixed;
+--backdrop-brightness: 100%;
+--backdrop-constrast: 100%;
+--backdrop-saturation: 100%;
+--backdrop-invert: 0%;
+--backdrop-grayscale: 0%;
+--backdrop-sepia: 0%;
+--backdrop-blur: 0px;
+--user-popout-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--user-popout-image: center;
+--user-popout-size: cover;
+--user-popout-repeat: repeat;
+--user-popout-attachment: fixed;
+--user-popout-brightness: 100%;
+--user-popout-constrast: 100%;
+--user-popout-saturation: 100%;
+--user-popout-invert: 0%;
+--user-popout-grayscale: 0%;
+--user-popout-sepia: 0%;
+--user-popout-blur: 0px;
+--user-popout-overlay: #000000a6;
+--user-modal-image: url('https://clearvision.gitlab.io/images/sapphire.jpg');
+--user-modal-image: center;
+--user-modal-size: cover;
+--user-modal-repeat: repeat;
+--user-modal-attachment: fixed;
+--user-modal-brightness: 100%;
+--user-modal-constrast: 100%;
+--user-modal-saturation: 100%;
+--user-modal-invert: 0%;
+--user-modal-grayscale: 0%;
+--user-modal-sepia: 0%;
+--user-modal-blur: 0px;
+--bd-blue: #2780e6;
+--bd-blue-hover: #1e63b3;
+--bd-blue-active: #1e63b3;
+--customFont: 'Varela Round';
+}
